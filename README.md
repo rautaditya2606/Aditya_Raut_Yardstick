@@ -167,8 +167,3 @@ README.md             # This documentation
 3. Update the API key in the code
 4. Run the demonstrations
 5. Copy the code to Google Colab for submission
-
-The code is designed to be self-contained and ready for immediate use in Google Colab or any Python environment.
-=======
-# Aditya_Raut_Yardstick
->>>>>>> 5ed69a2e7fdcf47cc061ecea08a90282c09b3c8f
