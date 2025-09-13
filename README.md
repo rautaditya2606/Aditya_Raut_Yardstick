@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Groq API Assignment: Conversation Management & Classification
 
 This project implements two core tasks using Groq APIs with OpenAI compatibility for conversation management and information extraction.
@@ -168,3 +169,6 @@ README.md             # This documentation
 5. Copy the code to Google Colab for submission
 
 The code is designed to be self-contained and ready for immediate use in Google Colab or any Python environment.
+=======
+# Aditya_Raut_Yardstick
+>>>>>>> 5ed69a2e7fdcf47cc061ecea08a90282c09b3c8f
