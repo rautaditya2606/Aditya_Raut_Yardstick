@@ -190,7 +190,7 @@ def demo_task_1():
     print("🎯 TASK 1: CONVERSATION MANAGEMENT")
     print("=" * 50)
     
-    api_key = "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"
+    api_key = "api-key"
     
     # Test 1: Basic conversation
     print("\n📝 Test 1: Summarization every 3 turns (max 6 messages, 2000 chars, 500 words)")
@@ -239,7 +239,7 @@ def demo_task_2():
     print("\n\n🎯 TASK 2: INFORMATION EXTRACTION")
     print("=" * 50)
     
-    api_key = "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"
+    api_key = "api-key"
     extractor = InfoExtractor(api_key)
     
     test_cases = [
@@ -260,7 +260,7 @@ def demo_combined():
     print("\n\n🎯 COMBINED WORKFLOW")
     print("=" * 50)
     
-    api_key = "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"
+    api_key = "api-key"
     
     chat = SimpleChat(api_key, max_messages=5, max_chars=1500, max_words=300, summarize_every=4)
     extractor = InfoExtractor(api_key)
