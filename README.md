@@ -156,8 +156,8 @@ This implementation satisfies all assignment requirements:
 ## File Structure
 
 ```
-final_assignment.py    # Main solution file
-README.md             # This documentation
+Aditya_Raut_Yardstick.ipynb    # Main solution file
+README.md                      # Thi s documentation
 ```
 
 ## Getting Started
